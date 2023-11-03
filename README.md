@@ -18,3 +18,10 @@ Simple dataset from Kaggle and Mapbox Basemap in Plotly. A good simple map to st
 Canals of the UK are cool because they still work, even there are planes, trains and cars. Plotted some open spatial data, not from OSM. It was hard to do nicely in Python, so the result was created in Mapbox Studio
 
 ![](images/Day2.png)
+
+## 03 \| Polygons
+
+**Tokyo subway stations** \
+Voronoi diagram of Tokyo subway, plotted with data from OpenStreetMap and postprocessed in Figma.
+
+![](images/Day3.png)
