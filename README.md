@@ -22,6 +22,13 @@ Canals of the UK are cool because they still work, even there are planes, trains
 ## 03 \| Polygons
 
 **Tokyo subway stations** \
-Voronoi diagram of Tokyo subway, plotted with data from OpenStreetMap and postprocessed in Figma.
+Voronoi diagram of Tokyo subway, plotted with data from OpenStreetMap and postprocessed in Figma
 
 ![](images/Day3.png)
+
+## 04 \| A bad map
+
+**Random pattern with lakes** \
+Piece of Earth somewhere in Yakutia. Nothing to do with that
+
+![](images/Day4.png)
