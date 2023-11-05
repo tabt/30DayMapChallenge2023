@@ -32,3 +32,10 @@ Voronoi diagram of Tokyo subway, plotted with data from OpenStreetMap and postpr
 Piece of Earth somewhere in Yakutia. Nothing to do with that
 
 ![](images/Day4.png)
+
+## 05 \| Analog map
+
+**Istanbul sightseeing** \
+Not a painter but at least I've tried
+
+![](images/Day5.jpg)
