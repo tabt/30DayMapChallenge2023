@@ -39,3 +39,10 @@ Piece of Earth somewhere in Yakutia. Nothing to do with that
 Not a painter but at least I've tried
 
 ![](images/Day5.jpg)
+
+## 06 \| Asia
+
+**Roads of Manila** \
+Didn't have much time and found out that R got really nice plots from the box. So it was time to do some R practice after I've finished Google Data Analytics Cert. For the map choose Manila, because it is known as a very congested city.
+
+![](images/Day6.png)
