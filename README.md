@@ -46,3 +46,10 @@ Not a painter but at least I've tried
 Didn't have much time and found out that R got really nice plots from the box. So it was time to do some R practice after I've finished Google Data Analytics Cert. For the map choose Manila, because it is known as a very congested city.
 
 ![](images/Day6.png)
+
+## 07 \| Navigation
+
+**The Silk Road** \
+The silk road and associated places nearby. Data from github.com/dorcas25sg/Silkroad
+
+![](images/Day7.png)
