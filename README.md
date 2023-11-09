@@ -53,3 +53,10 @@ Didn't have much time and found out that R got really nice plots from the box. S
 The silk road and associated places nearby. Data from github.com/dorcas25sg/Silkroad
 
 ![](images/Day7.png)
+
+## 08 \| Africa
+
+**Cairo, Egypt** \
+Egypt has a beauiful streets network, with chaotic and ordered lines. Tried to make a map that can hang on a wall in a cafe or smth.
+
+![](images/Day8.png)
