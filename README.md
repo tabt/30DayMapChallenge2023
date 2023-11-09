@@ -57,6 +57,6 @@ The silk road and associated places nearby. Data from github.com/dorcas25sg/Silk
 ## 08 \| Africa
 
 **Cairo, Egypt** \
-Egypt has a beauiful streets network, with chaotic and ordered lines. Tried to make a map that can hang on a wall in a cafe or smth.
+Cairo has a beauiful streets network, with chaotic and ordered lines. Tried to make a map that can hang on a wall in a cafe or smth.
 
 ![](images/Day8.png)
