@@ -60,3 +60,12 @@ The silk road and associated places nearby. Data from github.com/dorcas25sg/Silk
 Cairo has a beauiful streets network, with chaotic and ordered lines. Tried to make a map that can hang on a wall in a cafe or smth.
 
 ![](images/Day8.png)
+
+## 09 \| Hexagons
+
+**Rent cost in Barcelona** \
+My friend lives near Barcelona, and maybe this vizes will help him somehow. Really like this cmap, but it is a bit impractical
+
+Cost per m^2               |  Cost per month
+:-------------------------:|:-------------------------:
+![](images/Day9-1.gif)   |  ![](images/Day9-2.gif)
