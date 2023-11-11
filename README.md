@@ -69,3 +69,10 @@ My friend lives near Barcelona, and maybe this vizes will help him somehow. Real
 Cost per m^2               |  Cost per month
 :-------------------------:|:-------------------------:
 ![](images/Day9-1.gif)   |  ![](images/Day9-2.gif)
+
+## 10 \| North America
+
+**UFO Sights** \
+QGIS ate all my time with reprojecting DEMs, so I returned to simple Mapbox viz
+
+![](images/Day10.png)
