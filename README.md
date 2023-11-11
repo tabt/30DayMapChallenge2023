@@ -76,3 +76,10 @@ Cost per m^2               |  Cost per month
 QGIS ate all my time with reprojecting DEMs, so I returned to simple Mapbox viz
 
 ![](images/Day10.png)
+
+## 11 \| Retro
+
+**Prague** \
+First time trying to style maps with QGIS. Prague is one of my favourite European cities. Its streets are giving vibes of the past, inspired by Kafka and Meyrink's stories
+
+![](images/Day11.jpeg)
