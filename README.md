@@ -83,3 +83,10 @@ QGIS ate all my time with reprojecting DEMs, so I returned to simple Mapbox viz
 First time trying to style maps with QGIS. Prague is one of my favourite European cities. Its streets are giving vibes of the past, inspired by Kafka and Meyrink's stories
 
 ![](images/Day11.jpeg)
+
+## 12 \| South America
+
+**Peru** \
+I've downloaded Copernicus DEM from ec.europa.eu. After some adjustments in QGIS added tif file as a texture to Blender. Finalized with adding glowing spheres to Lima and Machu Picchu (was kinda hard to find it in the mountaines...)
+
+![](images/Day12.png)
