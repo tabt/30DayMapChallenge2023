@@ -90,3 +90,10 @@ First time trying to style maps with QGIS. Prague is one of my favourite Europea
 I've downloaded Copernicus DEM from ec.europa.eu. After some adjustments in QGIS added tif file as a texture to Blender. Finalized with adding glowing spheres to Lima and Machu Picchu (was kinda hard to find it in the mountaines...)
 
 ![](images/Day12.png)
+
+## 13 \| Choropleth
+
+**Japan life expectancy** \
+Found a cool clean dataset on Kaggle with data on Japan aging. There are additional factors, that can correlate with life expectancy. I needed to create just one choropleth, but we can plot and analyse whatever we want
+
+![](images/Day13.png)
