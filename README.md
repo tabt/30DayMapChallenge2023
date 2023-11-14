@@ -97,3 +97,10 @@ I've downloaded Copernicus DEM from ec.europa.eu. After some adjustments in QGIS
 Found a cool clean dataset on Kaggle with data on Japan aging. There are additional factors, that can correlate with life expectancy. I needed to create just one choropleth, but we can plot and analyse whatever we want
 
 ![](images/Day13.png)
+
+## 14 \| Europe
+
+**Europe Power Plants** \
+Colors represent fuel type and size of circles - power
+
+![](images/Day14.png)
