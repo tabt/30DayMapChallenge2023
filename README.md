@@ -104,3 +104,10 @@ Found a cool clean dataset on Kaggle with data on Japan aging. There are additio
 Colors represent fuel type and size of circles - power
 
 ![](images/Day14.png)
+
+## 15 \| OpenStreetMap
+
+**Montaretto, Italy** \
+Small town, where I was once in a childhood. Plot was made with R, postprocessing - Figma. Again moving from maps to posters...
+
+![](images/Day15.png)
