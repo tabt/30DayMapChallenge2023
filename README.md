@@ -111,3 +111,12 @@ Colors represent fuel type and size of circles - power
 Small town, where I was once in a childhood. Plot was made with R, postprocessing - Figma. Again moving from maps to posters...
 
 ![](images/Day15.png)
+
+
+## 16 \| Oceania
+
+**Airports of Oceania** \
+There are a lot of really small islands in Oceania, but still on many of them there is a landing strip, often occupying the largest part of an atoll.
+
+I was trying to make a good map, but no good ideas and methods were in the head. It is sad that such a good theme is so poorly mapped by me
+![](images/Day16.png)
