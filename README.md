@@ -120,3 +120,9 @@ There are a lot of really small islands in Oceania, but still on many of them th
 
 I was trying to make a good map, but no good ideas and methods were in the head. It is sad that such a good theme is so poorly mapped by me
 ![](images/Day16.png)
+
+## 17 \| Flow
+
+**Ocean currents** \
+Data was taken from earthdata.nasa.gov. Made with Python & Blender
+![](images/Day17.png)
