@@ -126,3 +126,9 @@ I was trying to make a good map, but no good ideas and methods were in the head.
 **Ocean currents** \
 Data was taken from earthdata.nasa.gov. Made with Python & Blender
 ![](images/Day17.png)
+
+## 18 \| Atmosphere
+
+**Air Quality Index** \
+The lower the index is - the better is the quality of air. Tried to make it look a bit like a part of an academic paper
+![](images/Day18.png)
