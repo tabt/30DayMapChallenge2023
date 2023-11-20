@@ -132,3 +132,11 @@ Data was taken from earthdata.nasa.gov. Made with Python & Blender
 **Air Quality Index** \
 The lower the index is - the better is the quality of air. Tried to make it look a bit like a part of an academic paper
 ![](images/Day18.png)
+
+## 19 \| 5 minute map
+
+**Random DnD map** \
+Tried to make a fast map of a fantasy town in http://inkarnate.com. No purpose,  just chaotic houses :)
+
+It's really a great tool for bringing atmosphere into your DnD games!
+![](images/Day19.jpg)
