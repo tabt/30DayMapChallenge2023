@@ -140,3 +140,10 @@ Tried to make a fast map of a fantasy town in http://inkarnate.com. No purpose, 
 
 It's really a great tool for bringing atmosphere into your DnD games!
 ![](images/Day19.jpg)
+
+## 20 \| Outdoors
+
+**Ski trails of Schladming** \
+Map of Schladming, town with beautiful mountains and a lot of ski trails! 
+When I was there, on top of Planai already were dense snow clouds. So it was useful to have a resort map with ski routes to get out of mist and have a good time!
+![](images/Day20.png)
