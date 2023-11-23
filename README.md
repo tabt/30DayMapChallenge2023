@@ -153,3 +153,11 @@ When I was there, on top of Planai already were dense snow clouds. So it was use
 **Pixels** \
 Raster to pixels & some retro colors. Made in QGIS with tutorial from cartetika.ru
 ![](images/Day21.png)
+
+## 22 \| North is not always up
+
+**Two-Point Equidistant Projection** \
+Two-Point Equidistant Projection preserves distances from two selected points on the map.
+
+Tried to transform to Fuller/Dymaxion in QGIS, but seems that it's something wrong with it - throws errors and no clue :(
+![](images/Day22.png)
