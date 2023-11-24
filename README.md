@@ -161,3 +161,15 @@ Two-Point Equidistant Projection preserves distances from two selected points on
 
 Tried to transform to Fuller/Dymaxion in QGIS, but seems that it's something wrong with it - throws errors and no clue :(
 ![](images/Day22.png)
+
+## 23 \| 3D
+
+**Iceland** \
+Made with Rayshader
+![](images/Day23.png)
+
+## 24 \| Black & White
+
+**Venice** \
+Simple map with thousands of houses in Venice. Data from OSM
+![](images/Day24.png)
