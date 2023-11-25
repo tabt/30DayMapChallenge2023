@@ -173,3 +173,9 @@ Made with Rayshader
 **Venice** \
 Simple map with thousands of houses in Venice. Data from OSM
 ![](images/Day24.png)
+
+## 25 \| Antarctica
+
+**Research stations of Antarctica** \
+Wanted to add more labels, but stations are too dense on the edge of the continent. Seems that Baskerville has become my favourite Serif font
+![](images/Day25.png)
