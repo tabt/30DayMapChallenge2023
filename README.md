@@ -179,3 +179,9 @@ Simple map with thousands of houses in Venice. Data from OSM
 **Research stations of Antarctica** \
 Wanted to add more labels, but stations are too dense on the edge of the continent. Seems that Baskerville has become my favourite Serif font
 ![](images/Day25.png)
+
+## 26 \| Minimal
+
+**Bauman University** \
+BMSTU buildings and the large point - Baumanskaya subway station. A lot of walks were made through these streets...
+![](images/Day26.png)
