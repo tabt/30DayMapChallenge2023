@@ -185,3 +185,11 @@ Wanted to add more labels, but stations are too dense on the edge of the contine
 **Bauman University** \
 BMSTU buildings and the large point - Baumanskaya subway station. A lot of walks were made through these streets...
 ![](images/Day26.png)
+
+## 27 \| Dot
+
+**Beyoğlu Cafés** \
+Density plot of cafés in Beyoğlu, European part of Istanbul. Heatmap confirms the real tourist attraction places. I was in Istanbul and as a personal recommendation, coffee shops are very cozy in Karaköy, far from Istiklal crowds :)
+
+data: OSM
+![](images/Day27.png)
