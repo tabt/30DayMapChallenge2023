@@ -196,6 +196,6 @@ data: OSM
 
 ## 28 \| Is this a chart or a map?
 
-**Hymalayan Peaks** \
+**Himalayan Peaks** \
 Really don't know is it a chart or a map... Circles represent mountains, their size - height of peaks. Added some towns to make chart more mappish 
 ![](images/Day28.png)
