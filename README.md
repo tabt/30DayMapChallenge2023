@@ -205,3 +205,12 @@ Really don't know is it a chart or a map... Circles represent mountains, their s
 **Population Density of Croatia** \
 Was too tired to make something special, but discovered for myself amazing tool - Aerialod! Very simple interface and beautiful pictures rendered as an output
 ![](images/Day29.png)
+
+## 30 \| My favourite...
+
+**Wes Anderson style map** \
+For the final day - my first map style in Mapbox
+Wes Anderson films always inspire me. On a spontaneous visited workshop I've learned how easy is to make map styles. Since then I'm a cartography fan...
+
+Data: https://accidentallywesanderson.com
+![](images/Day30-1.png)
