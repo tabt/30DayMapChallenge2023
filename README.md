@@ -199,3 +199,9 @@ data: OSM
 **Himalayan Peaks** \
 Really don't know is it a chart or a map... Circles represent mountains, their size - height of peaks. Added some towns to make chart more mappish 
 ![](images/Day28.png)
+
+## 29 \| Population
+
+**Population Density of Croatia** \
+Was too tired to make something special, but discovered for myself amazing tool - Aerialod! Very simple interface and beautiful pictures rendered as an output
+![](images/Day29.png)
